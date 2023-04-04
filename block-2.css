@@ -1,0 +1,33 @@
+.block-2-img {
+    transition: 1s;
+    height: 120px;
+    margin-bottom: 24px;
+}
+
+.block-2-img:hover {
+    transform: scale(1.2);
+}
+
+.block-2-title {
+    color: #000000;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.block-2--main-h3 {
+    color: #FF5400;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.block-2-h3 {
+    color: #020244;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.block-2-paragrah {
+    color: #000;
+    font-size: 18px;
+    line-height: 30px;
+}

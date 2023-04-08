@@ -4,3 +4,15 @@ body {
     font-size: 1rem;
     line-height: 1.5;
 }
+
+.footer-img {
+    width: 130px;
+    height: auto;
+    object-fit: cover;
+}
+
+.section{
+    padding: 40px;
+    /*height: 500px;*/
+    outline: 1px solid darkblue;
+}

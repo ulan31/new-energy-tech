@@ -1,3 +1,10 @@
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
 .block-3-bg {
     background-color: #EBF2F5;
 }

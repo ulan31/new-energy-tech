@@ -16,3 +16,15 @@ body {
     height: 100vh;
     /*height: 500px;*/
 }
+
+.section-white {
+    background-color: #fff;
+}
+
+.section-grey {
+    background-color: #EBF2F5;
+}
+
+.footer {
+    padding: 40px;
+}

@@ -11,3 +11,18 @@
     font-weight: 700;
     margin-bottom: 15px;
 }
+
+.block-4-ul {
+    text-align: left;
+    color: #000;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.block-4-ul li {
+    padding: 10px 0px 10px 5px;
+}
+
+.block-4-ul li::marker {
+    color: #FF5400;
+}

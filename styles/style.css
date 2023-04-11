@@ -28,3 +28,23 @@ body {
 .footer {
     padding: 40px;
 }
+
+.shift {
+    margin-top: 0;
+}
+
+@media (max-width: 768px) {
+    .section {
+        padding: 20px 0;
+        height: initial;
+    }
+
+    .block-4-ul {
+        margin: 0;
+    }
+
+    .shift {
+        margin-top: 15px;
+    }
+
+}

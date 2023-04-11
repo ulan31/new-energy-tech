@@ -38,3 +38,20 @@
 .row-margin {
     margin-top: 20px;
 }
+
+@media (max-width: 768px) {
+    .block-3--main-h3 {
+        font-size: 18px;
+    }
+    .block-3-title {
+        font-size: 28px;
+    }
+
+    .block-3-h3 {
+        font-size: 22px;
+    }
+
+    .block-3-paragrah {
+        font-size: 14px;
+    }
+}

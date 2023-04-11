@@ -42,3 +42,20 @@
     font-size: 18px;
     line-height: 30px;
 }
+
+@media (max-width: 768px) {
+    .block-2--main-h3 {
+        font-size: 18px;
+    }
+    .block-2-title {
+        font-size: 28px;
+    }
+
+    .block-2-h3 {
+        font-size: 22px;
+    }
+
+    .block-2-paragrah {
+        font-size: 14px;
+    }
+}

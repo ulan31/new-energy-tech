@@ -26,3 +26,24 @@
 .block-4-ul li::marker {
     color: #FF5400;
 }
+
+@media (max-width: 768px) {
+    .block-4--main-h3 {
+        font-size: 18px;
+    }
+    .block-4-title {
+        font-size: 28px;
+    }
+
+    .block-4-h3 {
+        font-size: 22px;
+    }
+
+    .block-4-paragrah {
+        font-size: 14px;
+    }
+
+    .block-4-ul {
+        font-size: 14px;
+    }
+}
